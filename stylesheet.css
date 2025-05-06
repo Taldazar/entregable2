@@ -97,7 +97,45 @@ nav h2{
 	height: 220px;
 	padding: 20px;
 }
-#p1, #p2, #p3, #p4{
+#img6{
+	float: left;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img7{
+	float: right;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img8{
+	float: right;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img9{
+	float: left;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img10{
+	float: left;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img11{
+	float: right;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+
+#p1, #p2, #p3, #p4, #p5, #p6, #p7, #p8, #p9, #p10{
 	display: inline-block;
 	vertical-align: top;
+	padding: 20px;
 }
