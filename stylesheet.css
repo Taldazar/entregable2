@@ -1,0 +1,103 @@
+body{
+	background-image: url("Background.jpg");
+	background-image: static;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+header{
+	font-family: "Exo 2", italic;
+}
+footer{
+	text-align: center;
+	color: white;
+	background-color: #787878;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: black;
+	font-size: 20px;
+}
+footer a{
+	color: white;
+	font-family: "Exo 2", italic
+
+}
+header{
+	text-align: center;
+	border-radius: 25px;
+	background-color: #a58526 /*olive color*/
+
+}
+main h2{
+	font-family: "Exo 2", italic;
+	text-align: center;
+	font-size: bold;
+}
+main p{
+	font-family: "Shadows Into Light", cursive;
+	text-align: justify;
+	padding: 10px;
+	font-size: auto;
+}
+main div{
+background-color: #9D0101;
+border-radius: 10px;
+border-color: black;
+border-style: solid;
+}
+
+div nav ul li:hover{
+	background: #9d0101;
+	color: white;
+	border-radius: 25px;
+}
+.nav a{
+	text-align: justify;
+	color: white;
+}
+nav {
+	background-color: #DE8A8A;
+	border-radius: 20px;
+	border-color: black;
+	border-style: solid;
+	padding: 10px;
+	position: relative;
+}
+nav h2{
+	font-family: "Exo 2", italic;
+	text-align: center;
+}
+#img1{
+	float: left;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img2{
+	float: right;
+	width: 300px;
+	height: 220px;
+	padding: 20px;
+}
+#img3{
+	float: right;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img4{
+	float: left;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#img5{
+	float: left;
+	width: 200px;
+	height: 220px;
+	padding: 20px;
+}
+#p1, #p2, #p3, #p4{
+	display: inline-block;
+	vertical-align: top;
+}
